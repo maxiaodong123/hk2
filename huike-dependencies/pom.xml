@@ -383,14 +383,6 @@
                 <version>${spring-boot-admin.version}</version>
             </dependency>
 
-            <!-- Test 测试相关 -->
-            <dependency>
-                <groupId>com.hk.boot</groupId>
-                <artifactId>huike-spring-boot-starter-test</artifactId>
-                <version>${revision}</version>
-                <scope>test</scope>
-            </dependency>
-
             <dependency>
                 <groupId>org.mockito</groupId>
                 <artifactId>mockito-inline</artifactId>
