@@ -1,0 +1,15 @@
+package com.hk.boot.framework.common.core;
+
+/**
+ * 可生成 T 数组的接口
+ *
+ * @author maxiaodong
+ */
+public interface ArrayValuable<T> {
+
+    /**
+     * @return 数组
+     */
+    T[] array();
+
+} 

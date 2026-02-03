@@ -1,0 +1,2 @@
+com.hk.boot.framework.redis.config.HuikeRedisAutoConfiguration
+com.hk.boot.framework.redis.config.HuikeCacheAutoConfiguration

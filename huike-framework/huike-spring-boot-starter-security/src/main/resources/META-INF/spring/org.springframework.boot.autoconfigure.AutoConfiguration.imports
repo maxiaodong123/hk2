@@ -1,0 +1,3 @@
+com.hk.boot.framework.security.config.HuikeSecurityAutoConfiguration
+com.hk.boot.framework.security.config.HuikeWebSecurityConfigurerAdapter
+com.hk.boot.framework.operatelog.config.HuikeOperateLogConfiguration

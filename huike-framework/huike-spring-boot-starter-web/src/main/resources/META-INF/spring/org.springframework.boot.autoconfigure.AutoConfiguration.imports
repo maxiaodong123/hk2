@@ -1,0 +1,7 @@
+com.hk.boot.framework.apilog.config.HuikeApiLogAutoConfiguration
+com.hk.boot.framework.jackson.config.HuikeJacksonAutoConfiguration
+com.hk.boot.framework.swagger.config.HuikeSwaggerAutoConfiguration
+com.hk.boot.framework.web.config.HuikeWebAutoConfiguration
+com.hk.boot.framework.xss.config.HuikeXssAutoConfiguration
+com.hk.boot.framework.banner.config.HuikeBannerAutoConfiguration
+com.hk.boot.framework.encrypt.config.HuikeApiEncryptAutoConfiguration

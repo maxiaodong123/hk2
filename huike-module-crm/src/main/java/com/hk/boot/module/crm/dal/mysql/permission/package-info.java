@@ -1,0 +1,1 @@
+package com.hk.boot.module.crm.dal.mysql.permission;

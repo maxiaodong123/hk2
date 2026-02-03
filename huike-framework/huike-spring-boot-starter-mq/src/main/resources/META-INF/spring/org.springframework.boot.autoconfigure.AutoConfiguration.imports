@@ -1,0 +1,3 @@
+com.hk.boot.framework.mq.redis.config.HuikeRedisMQProducerAutoConfiguration
+com.hk.boot.framework.mq.redis.config.HuikeRedisMQConsumerAutoConfiguration
+com.hk.boot.framework.mq.rabbitmq.config.HuikeRabbitMQAutoConfiguration

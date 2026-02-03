@@ -1,0 +1,2 @@
+com.hk.boot.framework.quartz.config.HuikeQuartzAutoConfiguration
+com.hk.boot.framework.quartz.config.HuikeAsyncAutoConfiguration

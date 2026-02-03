@@ -1,0 +1,3 @@
+com.hk.boot.framework.datasource.config.HuikeDataSourceAutoConfiguration
+com.hk.boot.framework.mybatis.config.HuikeMybatisAutoConfiguration
+com.hk.boot.framework.translate.config.HuikeTranslateAutoConfiguration

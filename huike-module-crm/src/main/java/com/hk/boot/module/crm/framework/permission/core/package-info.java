@@ -1,0 +1,1 @@
+package com.hk.boot.module.crm.framework.permission.core;
